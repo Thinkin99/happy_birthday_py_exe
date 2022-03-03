@@ -2,6 +2,7 @@
 An easy happy birthday program by python, and distribute in exe. 
 
 ## 1.Results:
+![image](https://github.com/Thinkin99/happy_birthday_py_exe/blob/main/result.png)
 
 
 
