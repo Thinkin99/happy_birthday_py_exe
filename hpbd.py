@@ -1,13 +1,3 @@
-# happy_birthday_py_exe
-An easy happy birthday program by python, and distribute in exe. 
-
-## 1.Results:
-
-
-
-## 2.Code：
-
-```python
 import tkinter as tk
 import random
 import threading
@@ -32,12 +22,3 @@ for i in range(200):#需要的弹框数量
     threads.append(t)
     time.sleep(0.01)
     threads[i].start()
-```
-
-## 3.py—>exe
-
-`pip install pyinstaller`
-
-`pyinstaller -F -W %{PATH OF YOUR FILE}`
-
-## 4.send to your friends!
